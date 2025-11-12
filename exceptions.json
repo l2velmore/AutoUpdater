@@ -1,0 +1,7 @@
+{
+  "ExcludedFiles": [
+    "system\\option.ini",
+    "system\\s_info.ini"
+  ],
+  "ForceUpdateIniFiles": []
+}
