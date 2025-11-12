@@ -4544,12 +4544,6 @@
     },
     {
       "IsSelected": false,
-      "FilePath": "system\\l2.ini",
-      "FileSize": 3376,
-      "Sha256Hash": "0c2b4a7a61bbb2cfb4765e4a2de6c710bd4317bf451fba8e856e8c9b94bc39a6"
-    },
-    {
-      "IsSelected": false,
       "FilePath": "system\\l2.int",
       "FileSize": 159,
       "Sha256Hash": "29376b6d5566f41191e36d3448a5d0040931175ea26a06a3f608cebaa493661a"
@@ -4563,8 +4557,8 @@
     {
       "IsSelected": false,
       "FilePath": "system\\l2velmore.dll",
-      "FileSize": 140800,
-      "Sha256Hash": "5d04ce51422591c340a438aa95d05a20ca10b2b1b2992170ae928b177b833c1d"
+      "FileSize": 142848,
+      "Sha256Hash": "272453bca0ad62af5cffc8dba61c8363d0c77ad1b5eb2123d9329894e89efada"
     },
     {
       "IsSelected": false,
