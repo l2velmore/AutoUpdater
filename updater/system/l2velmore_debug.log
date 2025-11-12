@@ -1,0 +1,75 @@
+=== DllMain: PROCESS_ATTACH ===
+Initializing security...
+Anti-RE protection temporarily disabled for build
+Calling InitializeL2Velmore()...
+[InitializeL2Velmore] Called
+[InitializeL2Velmore] Starting initialization...
+[InitializeL2Velmore] Security initialized
+[InitializeL2Velmore] Verifying client validation...
+[ClientValidation] Starting client validation verification for instance 1
+[ClientValidation] Failed to open validation memory: L2Velmore_Validation_1
+[ClientValidation] SECURITY VIOLATION: No valid validation memory found
+[ClientValidation] Starting client validation verification for instance 2
+[ClientValidation] Failed to open validation memory: L2Velmore_Validation_2
+[ClientValidation] SECURITY VIOLATION: No valid validation memory found
+[ClientValidation] Starting client validation verification for instance 3
+[ClientValidation] Failed to open validation memory: L2Velmore_Validation_3
+[ClientValidation] SECURITY VIOLATION: No valid validation memory found
+[ClientValidation] Starting client validation verification for instance 4
+[ClientValidation] Failed to open validation memory: L2Velmore_Validation_4
+[ClientValidation] SECURITY VIOLATION: No valid validation memory found
+[ClientValidation] Starting client validation verification for instance 5
+[ClientValidation] Failed to open validation memory: L2Velmore_Validation_5
+[ClientValidation] SECURITY VIOLATION: No valid validation memory found
+[InitializeL2Velmore] SECURITY VIOLATION: Client validation failed for all instances
+InitializeL2Velmore() FAILED
+=== DllMain: PROCESS_ATTACH ===
+Initializing security...
+Anti-RE protection temporarily disabled for build
+Calling InitializeL2Velmore()...
+[InitializeL2Velmore] Called
+[InitializeL2Velmore] Starting initialization...
+[InitializeL2Velmore] Security initialized
+[InitializeL2Velmore] Verifying client validation...
+[ClientValidation] Starting client validation verification for instance 1
+[ClientValidation] Failed to open validation memory: L2Velmore_Validation_1
+[ClientValidation] No validation memory found for instance 1
+[ClientValidation] Starting client validation verification for instance 2
+[ClientValidation] Failed to open validation memory: L2Velmore_Validation_2
+[ClientValidation] No validation memory found for instance 2
+[ClientValidation] Starting client validation verification for instance 3
+[ClientValidation] Failed to open validation memory: L2Velmore_Validation_3
+[ClientValidation] No validation memory found for instance 3
+[ClientValidation] Starting client validation verification for instance 4
+[ClientValidation] Failed to open validation memory: L2Velmore_Validation_4
+[ClientValidation] No validation memory found for instance 4
+[ClientValidation] Starting client validation verification for instance 5
+[ClientValidation] Failed to open validation memory: L2Velmore_Validation_5
+[ClientValidation] No validation memory found for instance 5
+[InitializeL2Velmore] SECURITY VIOLATION: Client validation failed for all instances
+InitializeL2Velmore() FAILED
+=== DllMain: PROCESS_ATTACH ===
+Initializing security...
+Anti-RE protection temporarily disabled for build
+Calling InitializeL2Velmore()...
+[InitializeL2Velmore] Called
+[InitializeL2Velmore] Starting initialization...
+[InitializeL2Velmore] Security initialized
+[InitializeL2Velmore] Verifying client validation...
+[ClientValidation] Starting client validation verification for instance 1
+[ClientValidation] Failed to open validation memory: L2Velmore_Validation_1
+[ClientValidation] No validation memory found for instance 1
+[ClientValidation] Starting client validation verification for instance 2
+[ClientValidation] Failed to open validation memory: L2Velmore_Validation_2
+[ClientValidation] No validation memory found for instance 2
+[ClientValidation] Starting client validation verification for instance 3
+[ClientValidation] Failed to open validation memory: L2Velmore_Validation_3
+[ClientValidation] No validation memory found for instance 3
+[ClientValidation] Starting client validation verification for instance 4
+[ClientValidation] Failed to open validation memory: L2Velmore_Validation_4
+[ClientValidation] No validation memory found for instance 4
+[ClientValidation] Starting client validation verification for instance 5
+[ClientValidation] Failed to open validation memory: L2Velmore_Validation_5
+[ClientValidation] No validation memory found for instance 5
+[InitializeL2Velmore] SECURITY VIOLATION: Client validation failed for all instances
+[InitializeL2Velmore] Terminating process due to validation failure
