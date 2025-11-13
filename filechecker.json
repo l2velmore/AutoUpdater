@@ -4562,12 +4562,6 @@
     },
     {
       "IsSelected": false,
-      "FilePath": "system\\l2velmore_debug.log",
-      "FileSize": 4618,
-      "Sha256Hash": "069c49854bb447332115c597da6103a7a8fbfd80273f54300686ebe6a22528db"
-    },
-    {
-      "IsSelected": false,
       "FilePath": "system\\largefont-e.gly",
       "FileSize": 1560,
       "Sha256Hash": "82d0f5eb9b7290c8f335473d5a5f03fc6e2d14440e7d8c5e322500f164c8c048"
