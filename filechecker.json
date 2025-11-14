@@ -4282,7 +4282,7 @@
       "IsSelected": false,
       "FilePath": "system\\armorgrp.dat",
       "FileSize": 120112,
-      "Sha256Hash": "8d9888e5e3a1c0952a0b6422331a726c4bf72877132fb9da9b4d9dc4bd17e2bc"
+      "Sha256Hash": "ed6223a56f58915ce50310a8adbb467d7a78eed0dcc3f8be3843626050ccd29f"
     },
     {
       "IsSelected": false,
@@ -4373,12 +4373,6 @@
       "FilePath": "system\\defopenal32.dll",
       "FileSize": 102420,
       "Sha256Hash": "96ec36c0631c73072423ad6eb35f07588b37ceb770cc145073a844a7086c20ca"
-    },
-    {
-      "IsSelected": false,
-      "FilePath": "system\\discord_game_sdk.dll",
-      "FileSize": 2937856,
-      "Sha256Hash": "e49ca81252852250a254f8c3f169859696542af2d0a81348f5984f0af880f43b"
     },
     {
       "IsSelected": false,
@@ -4571,24 +4565,6 @@
       "FilePath": "system\\largefont.gly",
       "FileSize": 185632,
       "Sha256Hash": "f6ea168898793c9923b4af54883ac564d09afc5520e6afdc3bb37bce71dfb819"
-    },
-    {
-      "IsSelected": false,
-      "FilePath": "system\\lineage2.ini",
-      "FileSize": 9252,
-      "Sha256Hash": "a3824f42d3e23ae6e852675d3d8486511f76d99646e2bfbe2a080741d383b164"
-    },
-    {
-      "IsSelected": false,
-      "FilePath": "system\\lineage2.int",
-      "FileSize": 159,
-      "Sha256Hash": "627703b2ce9c620fc5e4856a48ef1fbc2208dd7a25ce9f75eaa7b82ae1fba48e"
-    },
-    {
-      "IsSelected": false,
-      "FilePath": "system\\lineage2us.ini",
-      "FileSize": 354,
-      "Sha256Hash": "0a7a6dd3c42667e2fd4d8d7194e3994d9aaa097b8f359caeb3cd2807fd5ca0fa"
     },
     {
       "IsSelected": false,
