@@ -3,16 +3,6 @@
     "system\\option.ini",
     "system\\s_info.ini"
   ],
-  "ExcludedFolders": [
-    "Screenshots",
-    "Movies",
-    "UserData",
-    "log"
-  ],
-  "ExcludedExtensions": [
-    ".log",
-    ".tmp",
-    ".bak"
-  ],
-  "ForceUpdateIniFiles": []
+  "ExcludedExtensions": [],
+  "ExcludedDirectories": []
 }
