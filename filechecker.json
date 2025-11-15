@@ -4406,6 +4406,12 @@
     },
     {
       "IsSelected": false,
+      "FilePath": "system\\l2.ini",
+      "FileSize": 3376,
+      "Sha256Hash": "c8063725eb55866654be21ba7d04e8f3c901ec4555526034ff3ed4d9f77d0c10"
+    },
+    {
+      "IsSelected": false,
       "FilePath": "system\\l2.int",
       "FileSize": 159,
       "Sha256Hash": "29376b6d5566f41191e36d3448a5d0040931175ea26a06a3f608cebaa493661a"
