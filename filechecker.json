@@ -104,18 +104,6 @@
     },
     {
       "IsSelected": false,
-      "FilePath": "forcefeedback\\ifeel.ifr",
-      "FileSize": 172412,
-      "Sha256Hash": "3e0b7f6b852ea16d2f2ad3208c8865022af938db8c4ed71c37770f2a5450a67f"
-    },
-    {
-      "IsSelected": false,
-      "FilePath": "forcefeedback\\other.ifr",
-      "FileSize": 149445,
-      "Sha256Hash": "23dcffb755178327740eefffd8c4bc1fb543008b41da0c7aebc14a8929046f9f"
-    },
-    {
-      "IsSelected": false,
       "FilePath": "l2text\\help.htm",
       "FileSize": 1734,
       "Sha256Hash": "311eaa8d9d4376d9d1a25340f9699883d57b7eb9bf071d13b41992ffe228a51b"
